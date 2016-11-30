@@ -1,0 +1,16 @@
+body {
+  font-family: monospace;
+}
+
+.container {
+  width: 1080px;
+  height: auto;
+  margin: 40px auto;
+  .card {
+    width: 150px;
+    height: 200px;
+    background:lightblue;
+    margin:10px;
+    float: left;
+  }
+}
